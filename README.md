@@ -1,6 +1,5 @@
 🎯 About Me
 
-```python
 class DataScientist:
     def __init__(self):
         self.name = "Vamsi Krishna B"
@@ -20,41 +19,62 @@ class DataScientist:
         return "🟢 Open to Data Scientist / Data Analyst opportunities"
 
 me = DataScientist()
-```
+🛠️ Tech Stack
+Languages & Query
 
-## 🛠️ Tech Stack
+Python SQL
 
-**Languages & Query**
+Data Analysis & Visualization
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+Pandas NumPy Matplotlib Power BI Tableau Excel SPSS
 
-**Data Analysis & Visualization**
+Machine Learning
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-1C6EA4?style=for-the-badge)
+scikit-learn Random Forest NLP
 
-**Machine Learning**
+Databases
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Random Forest](https://img.shields.io/badge/Random_Forest-2E8B57?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP_Fundamentals-6A5ACD?style=for-the-badge)
+MySQL Oracle SQL
 
-**Databases**
+Version Control
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+Git GitHub
 
-**Version Control**
+💼 Internship Experience
+Data Science – Industrial Internship | Wizard Lenz XR Studio (OPC) Private Limited | Dec 2025 – Feb 2026 Built a student performance prediction system using supervised ML, benchmarked multiple regression models and picked Random Forest (R² = 89%).
+Data Analyst – Virtual Internship | Prodigy InfoTech Private Limited | June 2025 Worked on ML, NLP, exploratory data analysis and data visualization through real-world project simulations.
+🚀 Featured Projects
+🎓 Student Performance Prediction
+Engineered features from raw academic and demographic data and benchmarked several regression models. 🎯 R² = 89% with Random Forest. Python Pandas Scikit-learn Random Forest
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+📱 Social Media Addiction Detection
+Analytical research on detecting social media usage patterns and signs of digital overuse using machine learning models. Python Machine Learning
 
-## 💼 Internship Experience
+🌡️ Extreme Weather Temperature Prediction
+Predicted extreme temperatures from historical climate data using ML and statistical modelling, to support early warnings and risk mitigation. Python Machine Learning Statistical Modelling
 
-- **Data Science – Industrial Internship** | Wizard Lenz XR Studio (OPC) Private Limited | Dec 2025 – Feb 2026
+📊 GitHub Stats
+GitHub Stats GitHub Streak Top Languages
+
+🏆 Trophies
+Trophies
+
+🧠 Soft Skills
+Communication Teamwork Adaptability Problem Solving Attention to Detail Time Management
+
+🗣️ Languages I Speak
+Language	Proficiency
+Telugu	Full Professional
+English	Professional Working
+Tamil	Limited Working
+Kannada	Limited Working
+🎓 Education
+B.Tech, Artificial Intelligence and Data Science — Saveetha School of Engineering, SIMATS, Chennai (2022 – 2026), CGPA 7.92
+📜 Certifications
+🎓 Oracle Database SQL Certified Specialist — Oracle
+🎓 Career Skills in Data Analytics — June 2025
+🎓 Python (Basic) Certification — HackerRank (Oct 2023)
+🤝 Connect With Me
+LinkedIn Gmail
+
+Footer
