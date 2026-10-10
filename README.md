@@ -19,6 +19,7 @@ class DataScientist:
         return "🟢 Open to Data Scientist / Data Analyst opportunities"
 
 me = DataScientist()
+
 🛠️ Tech Stack
 Languages & Query
 
